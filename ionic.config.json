@@ -1,0 +1,7 @@
+{
+  "name": "find-my-bars",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
